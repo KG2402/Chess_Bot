@@ -1,6 +1,6 @@
 # ♟️ Chess Q&A Chatbot
 
-A sophisticated AI-powered chess assistant built with Streamlit and LangChain, featuring intelligent guardrails, conversation memory, and personalization.
+AI-powered chess assistant built with Streamlit and LangChain, featuring intelligent guardrails, conversation memory, and personalization.
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
